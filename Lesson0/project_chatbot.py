@@ -17,8 +17,7 @@
 # Before starting to code, let's lay out a flow diagram. In this case it is pretty simple. Our chatbot will do the
 #   following actions:
 #   Introduction (say hello, ask for name) -> Respond and give bot's name -> ask year of birth -> tell them what year
-#       they will turn 100 years old -> ask favorite food -> ask how often they eat favorite food ->
-#       ... -> Goodbye
+#       they will turn 100 years old -> ask favorite food -> ask how often they eat favorite food -> Goodbye
 # It is always helpful to break writing code into these individual pieces. Seeing each of the pieces and how they fit
 #   together is helpful and prevent you from feeling overwhelmed with a complex project.
 

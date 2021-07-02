@@ -89,4 +89,4 @@ print((part_one - part_two) / part_three)  # remember to add parentheses so pyth
 
 # to round numbers, you can use round(x, 2). That will round the variable x to 2 decimal places
 
-# END: this concludes lesson 1
+# END: this concludes lesson 0 -- basics
