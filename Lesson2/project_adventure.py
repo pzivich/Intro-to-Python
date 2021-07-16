@@ -20,7 +20,7 @@ print("You are in Chapel Hill, North Carolina about to embark on a long hike.")
 print("To prepare for the journey, you decide to take one item with you.")
 print("Which item do you take:")
 time.sleep(1)
-print("map(m), flashlight(f), chocolate(c), rope(r)")
+print("map(m), flashlight(f), rope(r), chocolate(c)")
 item = input("What do you choose?\n")
 while not (item == "m" or item == "f" or item == "c" or item == "r"):
     print("Unfortunately that is not an option...")
