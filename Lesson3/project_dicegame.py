@@ -226,7 +226,7 @@ while play_again:
     decision = input("Play again (y/n)?\n")
     while decision.lower() not in ["y", "n"]:
         decision = input("Please select y or n:\n")
-    if decision == "n":
+    if decision.lower() == "n":
         play_again = False
 
 
